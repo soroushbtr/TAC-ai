@@ -1,0 +1,21 @@
+Question 1:
+What is the firmware version synchronized with Version 4.0 of the MES5448 and MES7048 operation manual?
+
+Answer:
+The firmware version synchronized with Version 4.0 of the MES5448 and MES7048 operation manual is 8.4.0.7​(MES5448_MES7048_user_ma…).
+
+Question 2:
+What is the purpose of the MES5448 and MES7048 Data Center Switches?
+
+Answer:
+The purpose of the MES5448 and MES7048 Data Center Switches is to provide high-performance networking solutions for data centers, supporting various interface types and advanced networking features suitable for aggregation and transport in carrier networks and data centers​(MES5448_MES7048_user_ma…).
+
+Question 3:
+List three Layer 2 features supported by the MES5448 switch.
+
+Answer:
+Three Layer 2 features supported by the MES5448 switch are:
+
+VLAN support (IEEE 802.1Q)
+Link aggregation (IEEE 802.3ad)
+Spanning Tree Protocol (STP, RSTP, MSTP)​(MES5448_MES7048_user_ma…).

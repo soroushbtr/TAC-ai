@@ -1,0 +1,10 @@
+/bin
+/include
+/lib
+/lib64
+/share
+.env
+pyvenv.cfg
+/__pycache__
+/merge_pdfs
+MES5448_MES7048_user_manual_8_4_0_7_en.pdf
